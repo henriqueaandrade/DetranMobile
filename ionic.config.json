@@ -1,0 +1,8 @@
+{
+  "name": "detranMobile",
+  "app_id": "b4e8ed16",
+  "type": "ionic-angular",
+  "integrations": {
+    "cordova": {}
+  }
+}
